@@ -1,8 +1,8 @@
 # pairing-in-go-intro
 
-## Mission
+## Mission Goal
 We as a pairing group (ensemble), need to write a function that takes an integer as an argument
-and returns "Even" for even numbers or "Odd" for odd numbers.
+and **prints** and **returns** "Even" for even numbers or "Odd" for odd numbers.
 
 ## Example
 ```
@@ -22,4 +22,4 @@ and returns "Even" for even numbers or "Odd" for odd numbers.
 - Navigator: all the rest of persons in our group
 
 ## Driver Switching
-The driver is allowed only to write one line of code, then they hand over to the next person!
+The driver **listens** to the navigators and is **allowed to write one line of code only**, then they hand over to the next person!
